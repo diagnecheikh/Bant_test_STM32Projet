@@ -1,0 +1,7 @@
+../Core/Src/system_config.c:15:6:SystemClock_Config	88	static
+../Core/Src/system_config.c:62:6:MX_ADC1_Init	24	static
+../Core/Src/system_config.c:101:6:MX_I2C1_Init	8	static
+../Core/Src/system_config.c:123:6:MX_SPI2_Init	8	static
+../Core/Src/system_config.c:148:6:MX_TIM2_Init	48	static
+../Core/Src/system_config.c:185:6:MX_USART2_UART_Init	8	static
+../Core/Src/system_config.c:206:6:MX_GPIO_Init	48	static

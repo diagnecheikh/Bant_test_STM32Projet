@@ -1,0 +1,9 @@
+../Core/Src/test_functions.c:12:6:test_system	2
+../Core/Src/test_functions.c:23:6:test_led	1
+../Core/Src/test_functions.c:34:6:test_button	2
+../Core/Src/test_functions.c:47:6:test_uart	1
+../Core/Src/test_functions.c:53:6:test_adc	2
+../Core/Src/test_functions.c:69:6:test_spi	3
+../Core/Src/test_functions.c:84:6:test_i2c	5
+../Core/Src/test_functions.c:104:6:test_timer	2
+../Core/Src/test_functions.c:121:6:run_all_tests	1
